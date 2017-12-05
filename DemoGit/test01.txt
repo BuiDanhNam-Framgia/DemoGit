@@ -1,4 +1,6 @@
 day la ban dau tien
+<<<<<<< HEAD
 Cap nhat ban dau tien
 Cap nhat ban thu 2
-
+=======
+>>>>>>> parent of f529f9f... Update test01.txt
